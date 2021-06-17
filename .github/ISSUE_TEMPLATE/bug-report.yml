@@ -1,4 +1,5 @@
 name: Bug report
+about: hoge
 description: Something is not working correctly.
 labels: "S: needs triage, type: bug"
 
